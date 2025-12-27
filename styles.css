@@ -16,6 +16,7 @@ body {
 #hero-section {
     background-image: url(images/bahia.jpg);
     background-size: cover;
+    background-position: center;
     color: var(--aliceBlue);
     margin: 0;
     height: 360px;
